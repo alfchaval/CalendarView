@@ -1,0 +1,7 @@
+#Sat Jan 14 19:04:02 CET 2017
+base.0=/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e4ed705e9494a3e1160a078a35d3063e59e03480
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c69e4b6147b119e08e49e6dec81c1711200f429/classes.dex
+base.1=/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c69e4b6147b119e08e49e6dec81c1711200f429
+file.0=/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/CalendarView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e4ed705e9494a3e1160a078a35d3063e59e03480/classes.dex
